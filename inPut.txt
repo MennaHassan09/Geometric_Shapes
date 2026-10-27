@@ -1,0 +1,5 @@
+4
+circle 100
+cube 80
+circle 150
+cube 100
